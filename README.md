@@ -8,8 +8,8 @@ CRTO | eJPTv2 | PT1
 HQ | ComplyCat | Vahaka | CartCrashers | Hashblade | Webhound | TokenPlease
 
 *Learnings :*
-Articles | CVE Series | Threat Modeling Series | Authentication Series
+Articles | CVE Series | Threat Modeling Series | Authentication Series at 
 blog.smitverma.com
 
-*Portfolio*
+*Portfolio* : 
 smitverma.com

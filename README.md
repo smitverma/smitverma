@@ -1,8 +1,7 @@
 Hi!, I’m a Security Engineer and Developer with 2.5+ years of experience across Application Security, Cloud Security, VAPT and Compliance.
 I have built security functions from scratch at startups, as well as stayed up at 2AM with an independent client containing a server breach.
 
-*Certifications :*
-
+*Certifications :*<br>
 CPTS | CRTO | eJPTv2 | PT1
 
 *Projects :*

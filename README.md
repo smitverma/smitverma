@@ -12,4 +12,4 @@ Articles | CVE Series | Threat Modeling Series | Authentication Series at <br>
 [blog.smitverma.com](https://blog.smitverma.com)
 
 *Portfolio* :<br>
-[smitverma.com](https://smitverma.com]
+[smitverma.com](https://smitverma.com)

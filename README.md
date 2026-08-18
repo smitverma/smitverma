@@ -4,15 +4,12 @@ I have built security functions from scratch at startups, as well as stayed up a
 *Certifications :*<br>
 CPTS | CRTO | eJPTv2 | PT1
 
-*Projects :*
-
+*Projects :*<br>
 HQ | ComplyCat | Vahaka | CartCrashers | Hashblade | Webhound | TokenPlease
 
-*Learnings :*
-
-Articles | CVE Series | Threat Modeling Series | Authentication Series at 
+*Learnings :*<br>
+Articles | CVE Series | Threat Modeling Series | Authentication Series at <br>
 blog.smitverma.com
 
-*Portfolio* :
-
+*Portfolio* :<br>
 smitverma.com
